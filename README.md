@@ -56,7 +56,7 @@ Switch
 
 ![cutter1](https://cloud.githubusercontent.com/assets/24885616/21599894/9ce39ed6-d128-11e6-9635-6a2649af6fc2.JPG)
 
-#Circuit for the cutter
+#Circuit for the Cutter
 ![pic5](https://cloud.githubusercontent.com/assets/24885616/21599916/ed906242-d128-11e6-82d1-519d7e1aa84f.png)
 
 #Wiring Connections
