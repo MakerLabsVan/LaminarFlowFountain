@@ -9,16 +9,27 @@ The system below is a Laminar Flow Fountain that converts the turbulent water st
 #Material Required
 
 4" ABS Pipe
+
 400 Drinking Straws
+
 Window Mesh
+
 Optical fibers
+
 Scrub Pads
+
 Threaded Rods 
+
 Acrylic/Aluminum for the endcaps
+
 Arduino Uno
+
 EasyDriver v4.5
+
 STM100 Stepper Motor
+
 High Power 3W Led
+
 Switch
 
 #Software Required 
