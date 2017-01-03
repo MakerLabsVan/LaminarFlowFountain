@@ -33,4 +33,12 @@ Switch
 -Place 6 optical fibers (~ 16 inches in length) in a straw and place the optical fiber tube in line with the outlet. The distance between the optical fibers and the stream outlet should be at least 0.75 inches.
 - Place 2 balloons inside the pipe near the nozzle inlet to absorb the vibrations and stabilize the pressure fluctuations.
 - For the outlet cap, drill a 1.4’’ bevel hole in a ¼’’ acrylic end cap and sand the water outlet with sand papers of grit 220, 400, 1000 and 2000 respectively.
+Integrate all the components using threaded stainless steel rods.
 
+![pic1](https://cloud.githubusercontent.com/assets/24885616/21599833/a4e5300a-d127-11e6-9b7f-344715271caf.jpg)
+![pic2](https://cloud.githubusercontent.com/assets/24885616/21599830/a4e0a5ee-d127-11e6-8401-7159fcf118ee.png)
+
+#Stream Cutter
+
+- Mount the motor on an acrylic cap (see Inkscape file for the design). Cut a piece of stainless steel and bend it in a zig zag shape.
+- Attach the cutter arm on the motor using an acrylic washer that is tight fitted on the motor shaft.
