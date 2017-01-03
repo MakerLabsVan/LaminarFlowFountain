@@ -66,7 +66,7 @@ Connect one leg of the switch to pin 3 on the Arduino via a resistor and the oth
 
 Connect the LED to a 3V power supply separately.
 
-#Workig of the Code
+#Working of the Code
 When the switch is in the ON position, the if condition calls the move function. The move function makes the cutter arm sweep a certain number of steps. Once finished, the direction of the motor shaft is reversed and it sweeps back to the original position. The cutter is engaged only when the toggle switch is in the ON position. If the switch is turned off mid - way a cut, the cutter arm will still come back to its original position. This will enable the fountain mode to resume.
 
 -To change the volume of the drink delivered, change the Delay (2000) in the if condition block of the code. Reducing this time step will reduce the volume of the drink delivered in each cut. 
@@ -75,7 +75,7 @@ When the switch is in the ON position, the if condition calls the move function.
 
 -To make the cutter move faster, change the Delay (1000) in the if condition block.
 
-#Engaging the cutter
+#Engaging the Cutter
 - Connect the Arduino to your laptop using a USB cable
 - Turn on the power for the 12V supply
 - Upload the code to the Arduino
@@ -93,7 +93,7 @@ When the switch is in the ON position, the if condition calls the move function.
 
 - Attach the cutter plate to the end cap and enclose the assembly with another pipe and end cap.
 
-#Troubleshooting for laminar flow
+#Troubleshooting for Laminar Flow
 
 If the flow is not laminar, make sure the beveled hole is very smooth and the shape has not changed while sanding.
 
